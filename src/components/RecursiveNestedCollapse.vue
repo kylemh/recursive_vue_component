@@ -1,20 +1,20 @@
 <template>
-  <div class="nested-dropdown">
-    <!-- Always Visible -->
+  <div class="recursive-nested-collapse">
     <b-button
       v-b-toggle="componentID"
       variant="primary"
       class="d-flex align-items-center"
-      @click="buttonClickFunction()"
+      :style="{ backgroundColor: color, borderRadius: borderRadius}"
+      @click="expandDropdown()"
       block
     >
-      <span><b>{{ name }}</b>  -  {{ color }}</span>
+      <span><b>{{ name }}</b>  &nbsp;~&nbsp;  Color: {{ color.toUpperCase() }}</span>
     </b-button>
 
     <!-- Rendered After Click -->
     <b-collapse :id="componentID">
       <div v-if="isNotLastPath()">
-        <recursive-dropdown
+        <recursive-nested-collapse
           v-for="child in children"
           :key="child.id"
           :name="child.name"
@@ -25,7 +25,7 @@
       </div>
 
       <div v-else>
-        <location-display
+        <location-well
           v-for="child in children"
           :key="child.id"
           :address="child.address"
@@ -34,15 +34,14 @@
         />
       </div>
     </b-collapse>
-    <br />
   </div>
 </template>
 
 <script>
-import LocationDisplay from './LocationDisplay';
+import LocationWell from './LocationWell';
 
 export default {
-  name: 'RecursiveDropdown',
+  name: 'RecursiveNestedCollapse',
   props: {
     name: String,
     color: String,
@@ -50,7 +49,7 @@ export default {
     paths: Array,
   },
   components: {
-    LocationDisplay,
+    LocationWell,
   },
   data() {
     return {
@@ -70,21 +69,23 @@ export default {
     componentID() {
       return `${this.name}-${this.data.id}-${this.color}`;
     },
+    borderRadius() {
+      // If selecting a city, change the button radii
+      return this.drawerIsSelected && !this.paths.includes('cities') ? '15px 15px 0 0' : '5px';
+    }
   },
   methods: {
     isNotLastPath() {
       return this.paths.length > 1;
     },
-    buttonClickFunction() {
+    expandDropdown() {
       this.drawerIsSelected = !this.drawerIsSelected;
-      console.log(this.children);
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style>
 h1, h2 {
   font-weight: normal;
 }
@@ -103,7 +104,16 @@ a {
   color: #42b983;
 }
 
-.nested-dropdown {
+.row {
+  margin: 0 !important;
+}
+
+.recursive-nested-collapse {
   margin: 5px 15px 5px 15px;
+}
+
+.btn:hover,
+button:hover {
+  cursor: pointer;
 }
 </style>

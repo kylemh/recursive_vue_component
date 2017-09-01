@@ -1,8 +1,16 @@
 <template>
   <div id="app">
+    <h1>Recursive, Nested Component</h1>
     <img src="./assets/logo.png">
+    <h2>Vue.js</h2>
 
-    <recursive-dropdown
+    <br />
+
+    <!--
+      Note that in paths you don't want to pass the top-level of your
+      nested data. Simply pass everything below it!
+     -->
+    <recursive-nested-collapse
       v-for="state in states"
       :key="state.id"
       :name="state.name"
@@ -15,7 +23,7 @@
 
 <script>
 import { mapActions } from 'vuex';
-import RecursiveDropdown from './components/RecursiveDropdown'
+import RecursiveNestedCollapse from './components/RecursiveNestedCollapse'
 
 export default {
   name: 'app',
@@ -28,7 +36,7 @@ export default {
     }
   },
   components: {
-    RecursiveDropdown
+    RecursiveNestedCollapse
   },
   methods: {
     ...mapActions([
