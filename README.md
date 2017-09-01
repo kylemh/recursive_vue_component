@@ -1,4 +1,4 @@
-# recursive-nested-test
+# Recursive, Nested Collapse
 
 > A short teaser on the power of recursive components in Vue.js
 

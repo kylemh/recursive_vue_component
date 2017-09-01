@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Recursive, Nested Component</h1>
+    <h1>Recursive, Nested Collapse</h1>
     <img src="./assets/logo.png">
     <h2>Vue.js</h2>
 

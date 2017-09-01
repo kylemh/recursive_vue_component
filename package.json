@@ -1,5 +1,5 @@
 {
-  "name": "recursive-nested-test",
+  "name": "recursive-nested-collapse",
   "version": "1.0.0",
   "description": "A short teaser on the power of recursive components in Vue.js",
   "author": "Kyle Holmberg <kylemh.email@gmail.com>",
