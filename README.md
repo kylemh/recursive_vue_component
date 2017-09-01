@@ -2,6 +2,12 @@
 
 > A short teaser on the power of recursive components in Vue.js
 
+[Live stream of development](https://www.youtube.com/watch?v=GuNQ_lcm5VE)
+
+I ran into some bumps here n there, but overall it's a pretty short exercise into creating a very powerful recursive, nested component. Readability, yay!
+
+I would promise to go back and clean up the video and code, but... I probably won't.
+
 ## Build Setup
 
 ``` bash
