@@ -1,0 +1,2581 @@
+{
+  "states": [
+    {
+      "name": "New Mexico",
+      "color": "#729d2d",
+      "id": 0,
+      "cities": [
+        {
+          "name": "Ebro",
+          "color": "#26902d",
+          "id": 0,
+          "locations": [
+            {
+              "address": "669 Herkimer Court",
+              "id": 0,
+              "company": "KRAGGLE"
+            },
+            {
+              "address": "523 Wortman Avenue",
+              "id": 1,
+              "company": "OBONES"
+            },
+            {
+              "address": "288 Cove Lane",
+              "id": 2,
+              "company": "AQUASSEUR"
+            },
+            {
+              "address": "251 Clinton Avenue",
+              "id": 3,
+              "company": "PAPRICUT"
+            },
+            {
+              "address": "355 Argyle Road",
+              "id": 4,
+              "company": "BIFLEX"
+            }
+          ]
+        },
+        {
+          "name": "Loomis",
+          "color": "#5ba336",
+          "id": 1,
+          "locations": [
+            {
+              "address": "636 Elmwood Avenue",
+              "id": 0,
+              "company": "GEOFORM"
+            },
+            {
+              "address": "732 Front Street",
+              "id": 1,
+              "company": "NIQUENT"
+            },
+            {
+              "address": "375 Prospect Street",
+              "id": 2,
+              "company": "CHORIZON"
+            },
+            {
+              "address": "127 Plaza Street",
+              "id": 3,
+              "company": "QUANTASIS"
+            }
+          ]
+        },
+        {
+          "name": "Faxon",
+          "color": "#dec1f6",
+          "id": 2,
+          "locations": [
+            {
+              "address": "975 Underhill Avenue",
+              "id": 0,
+              "company": "SNORUS"
+            },
+            {
+              "address": "722 Florence Avenue",
+              "id": 1,
+              "company": "EXOSIS"
+            },
+            {
+              "address": "565 Harbor Lane",
+              "id": 2,
+              "company": "ISOLOGICS"
+            },
+            {
+              "address": "155 Hale Avenue",
+              "id": 3,
+              "company": "ORONOKO"
+            },
+            {
+              "address": "997 Corbin Place",
+              "id": 4,
+              "company": "ISOSTREAM"
+            }
+          ]
+        },
+        {
+          "name": "Trona",
+          "color": "#22be3e",
+          "id": 3,
+          "locations": [
+            {
+              "address": "815 Batchelder Street",
+              "id": 0,
+              "company": "OVERPLEX"
+            },
+            {
+              "address": "790 Dooley Street",
+              "id": 1,
+              "company": "AQUAFIRE"
+            },
+            {
+              "address": "415 Hamilton Walk",
+              "id": 2,
+              "company": "VERAQ"
+            },
+            {
+              "address": "941 Ryder Street",
+              "id": 3,
+              "company": "BITREX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "color": "#95d813",
+      "id": 1,
+      "cities": [
+        {
+          "name": "Nogal",
+          "color": "#deac23",
+          "id": 0,
+          "locations": [
+            {
+              "address": "329 Grove Street",
+              "id": 0,
+              "company": "POLARAX"
+            },
+            {
+              "address": "998 Stratford Road",
+              "id": 1,
+              "company": "NEOCENT"
+            }
+          ]
+        },
+        {
+          "name": "Gilgo",
+          "color": "#44fb8e",
+          "id": 1,
+          "locations": [
+            {
+              "address": "299 Dean Street",
+              "id": 0,
+              "company": "VERTIDE"
+            },
+            {
+              "address": "962 Arlington Avenue",
+              "id": 1,
+              "company": "EARTHMARK"
+            },
+            {
+              "address": "595 Summit Street",
+              "id": 2,
+              "company": "TEMORAK"
+            },
+            {
+              "address": "184 Denton Place",
+              "id": 3,
+              "company": "CORECOM"
+            },
+            {
+              "address": "296 Nixon Court",
+              "id": 4,
+              "company": "ENQUILITY"
+            }
+          ]
+        },
+        {
+          "name": "Ellerslie",
+          "color": "#bcf629",
+          "id": 2,
+          "locations": [
+            {
+              "address": "760 Schaefer Street",
+              "id": 0,
+              "company": "PROXSOFT"
+            },
+            {
+              "address": "339 Berkeley Place",
+              "id": 1,
+              "company": "COMDOM"
+            },
+            {
+              "address": "957 Guernsey Street",
+              "id": 2,
+              "company": "PUSHCART"
+            },
+            {
+              "address": "333 Neptune Court",
+              "id": 3,
+              "company": "EXOSTREAM"
+            },
+            {
+              "address": "291 Dare Court",
+              "id": 4,
+              "company": "KOZGENE"
+            },
+            {
+              "address": "179 Charles Place",
+              "id": 5,
+              "company": "COMBOGENE"
+            },
+            {
+              "address": "689 Williams Avenue",
+              "id": 6,
+              "company": "ZENTHALL"
+            },
+            {
+              "address": "387 Tapscott Avenue",
+              "id": 7,
+              "company": "GENMEX"
+            }
+          ]
+        },
+        {
+          "name": "Hollymead",
+          "color": "#2a6458",
+          "id": 3,
+          "locations": [
+            {
+              "address": "281 Chester Court",
+              "id": 0,
+              "company": "ISBOL"
+            },
+            {
+              "address": "909 Linden Street",
+              "id": 1,
+              "company": "XERONK"
+            },
+            {
+              "address": "763 Prospect Avenue",
+              "id": 2,
+              "company": "REALMO"
+            },
+            {
+              "address": "328 Suydam Place",
+              "id": 3,
+              "company": "EQUITOX"
+            },
+            {
+              "address": "666 Wilson Avenue",
+              "id": 4,
+              "company": "GENESYNK"
+            },
+            {
+              "address": "841 Robert Street",
+              "id": 5,
+              "company": "ORBIN"
+            },
+            {
+              "address": "170 Metrotech Courtr",
+              "id": 6,
+              "company": "FITCORE"
+            }
+          ]
+        },
+        {
+          "name": "Strykersville",
+          "color": "#4a8d79",
+          "id": 4,
+          "locations": [
+            {
+              "address": "904 Rose Street",
+              "id": 0,
+              "company": "EXOSWITCH"
+            },
+            {
+              "address": "330 Amboy Street",
+              "id": 1,
+              "company": "ACCUFARM"
+            },
+            {
+              "address": "445 Clinton Street",
+              "id": 2,
+              "company": "OPTYK"
+            },
+            {
+              "address": "416 Eaton Court",
+              "id": 3,
+              "company": "HELIXO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "color": "#ed9dbc",
+      "id": 2,
+      "cities": [
+        {
+          "name": "Boyd",
+          "color": "#82c784",
+          "id": 0,
+          "locations": [
+            {
+              "address": "992 Raleigh Place",
+              "id": 0,
+              "company": "SPLINX"
+            },
+            {
+              "address": "878 Elliott Walk",
+              "id": 1,
+              "company": "FUELTON"
+            },
+            {
+              "address": "633 Beadel Street",
+              "id": 2,
+              "company": "SONIQUE"
+            }
+          ]
+        },
+        {
+          "name": "Morgandale",
+          "color": "#bc30c9",
+          "id": 1,
+          "locations": [
+            {
+              "address": "455 Quincy Street",
+              "id": 0,
+              "company": "CENTURIA"
+            },
+            {
+              "address": "924 McKibben Street",
+              "id": 1,
+              "company": "PLASMOX"
+            },
+            {
+              "address": "356 Russell Street",
+              "id": 2,
+              "company": "ANDRYX"
+            },
+            {
+              "address": "466 Temple Court",
+              "id": 3,
+              "company": "MATRIXITY"
+            },
+            {
+              "address": "231 Juliana Place",
+              "id": 4,
+              "company": "INSURETY"
+            }
+          ]
+        },
+        {
+          "name": "Ticonderoga",
+          "color": "#2fd1a4",
+          "id": 2,
+          "locations": [
+            {
+              "address": "876 Kings Hwy",
+              "id": 0,
+              "company": "CUJO"
+            },
+            {
+              "address": "202 Barlow Drive",
+              "id": 1,
+              "company": "WARETEL"
+            },
+            {
+              "address": "399 Colin Place",
+              "id": 2,
+              "company": "HIVEDOM"
+            },
+            {
+              "address": "456 Revere Place",
+              "id": 3,
+              "company": "TERRAGO"
+            },
+            {
+              "address": "935 Bartlett Place",
+              "id": 4,
+              "company": "ZENTILITY"
+            },
+            {
+              "address": "632 Girard Street",
+              "id": 5,
+              "company": "VELOS"
+            },
+            {
+              "address": "210 Alton Place",
+              "id": 6,
+              "company": "STOCKPOST"
+            }
+          ]
+        },
+        {
+          "name": "Delwood",
+          "color": "#eba7b",
+          "id": 3,
+          "locations": [
+            {
+              "address": "383 Meserole Avenue",
+              "id": 0,
+              "company": "SPHERIX"
+            },
+            {
+              "address": "201 Langham Street",
+              "id": 1,
+              "company": "DIGIRANG"
+            }
+          ]
+        },
+        {
+          "name": "Kidder",
+          "color": "#fda801",
+          "id": 4,
+          "locations": [
+            {
+              "address": "515 Schenck Avenue",
+              "id": 0,
+              "company": "URBANSHEE"
+            },
+            {
+              "address": "218 Wythe Avenue",
+              "id": 1,
+              "company": "WRAPTURE"
+            },
+            {
+              "address": "828 Applegate Court",
+              "id": 2,
+              "company": "NETBOOK"
+            },
+            {
+              "address": "993 Pilling Street",
+              "id": 3,
+              "company": "ROBOID"
+            },
+            {
+              "address": "495 Portland Avenue",
+              "id": 4,
+              "company": "EYEWAX"
+            },
+            {
+              "address": "243 Gunther Place",
+              "id": 5,
+              "company": "FLEETMIX"
+            },
+            {
+              "address": "416 Lott Street",
+              "id": 6,
+              "company": "ULTRASURE"
+            }
+          ]
+        },
+        {
+          "name": "Odessa",
+          "color": "#bfec31",
+          "id": 5,
+          "locations": [
+            {
+              "address": "323 Ridgecrest Terrace",
+              "id": 0,
+              "company": "VETRON"
+            },
+            {
+              "address": "444 Brigham Street",
+              "id": 1,
+              "company": "VENDBLEND"
+            }
+          ]
+        },
+        {
+          "name": "Gerber",
+          "color": "#ed033b",
+          "id": 6,
+          "locations": [
+            {
+              "address": "982 King Street",
+              "id": 0,
+              "company": "RODEOLOGY"
+            },
+            {
+              "address": "601 Jaffray Street",
+              "id": 1,
+              "company": "KONGLE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "color": "#52636a",
+      "id": 3,
+      "cities": [
+        {
+          "name": "Gardners",
+          "color": "#44e17a",
+          "id": 0,
+          "locations": [
+            {
+              "address": "743 Nova Court",
+              "id": 0,
+              "company": "COMSTRUCT"
+            },
+            {
+              "address": "747 Kiely Place",
+              "id": 1,
+              "company": "TWIIST"
+            },
+            {
+              "address": "703 Ruby Street",
+              "id": 2,
+              "company": "KAGGLE"
+            },
+            {
+              "address": "142 Tompkins Place",
+              "id": 3,
+              "company": "PROSURE"
+            },
+            {
+              "address": "720 Krier Place",
+              "id": 4,
+              "company": "APPLIDECK"
+            },
+            {
+              "address": "320 Moore Street",
+              "id": 5,
+              "company": "BOILICON"
+            }
+          ]
+        },
+        {
+          "name": "Sparkill",
+          "color": "#545ac1",
+          "id": 1,
+          "locations": [
+            {
+              "address": "129 Whitwell Place",
+              "id": 0,
+              "company": "DOGTOWN"
+            },
+            {
+              "address": "681 Madison Place",
+              "id": 1,
+              "company": "GEEKFARM"
+            },
+            {
+              "address": "405 Berry Street",
+              "id": 2,
+              "company": "PROFLEX"
+            },
+            {
+              "address": "462 Bleecker Street",
+              "id": 3,
+              "company": "ZEROLOGY"
+            },
+            {
+              "address": "379 Richards Street",
+              "id": 4,
+              "company": "MEDIFAX"
+            },
+            {
+              "address": "667 Colby Court",
+              "id": 5,
+              "company": "DELPHIDE"
+            },
+            {
+              "address": "443 Broadway ",
+              "id": 6,
+              "company": "PETIGEMS"
+            },
+            {
+              "address": "620 Lewis Place",
+              "id": 7,
+              "company": "NSPIRE"
+            }
+          ]
+        },
+        {
+          "name": "Echo",
+          "color": "#922bc3",
+          "id": 2,
+          "locations": [
+            {
+              "address": "451 Linden Boulevard",
+              "id": 0,
+              "company": "COMBOT"
+            },
+            {
+              "address": "657 Miller Avenue",
+              "id": 1,
+              "company": "UPLINX"
+            },
+            {
+              "address": "470 Powers Street",
+              "id": 2,
+              "company": "ZUVY"
+            },
+            {
+              "address": "717 Jardine Place",
+              "id": 3,
+              "company": "NEUROCELL"
+            },
+            {
+              "address": "732 Quentin Street",
+              "id": 4,
+              "company": "SHADEASE"
+            },
+            {
+              "address": "363 Schenck Street",
+              "id": 5,
+              "company": "TALAE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "color": "#af00f2",
+      "id": 4,
+      "cities": [
+        {
+          "name": "Woodlands",
+          "color": "#56c3b7",
+          "id": 0,
+          "locations": [
+            {
+              "address": "970 Nassau Avenue",
+              "id": 0,
+              "company": "MALATHION"
+            },
+            {
+              "address": "598 Lincoln Terrace",
+              "id": 1,
+              "company": "NETROPIC"
+            },
+            {
+              "address": "252 Dahlgreen Place",
+              "id": 2,
+              "company": "ENTHAZE"
+            },
+            {
+              "address": "564 Dunne Court",
+              "id": 3,
+              "company": "MAXIMIND"
+            },
+            {
+              "address": "591 Grand Street",
+              "id": 4,
+              "company": "NORALI"
+            },
+            {
+              "address": "249 Bijou Avenue",
+              "id": 5,
+              "company": "OPTICALL"
+            },
+            {
+              "address": "583 Bedford Place",
+              "id": 6,
+              "company": "SEQUITUR"
+            },
+            {
+              "address": "844 Fair Street",
+              "id": 7,
+              "company": "MEDALERT"
+            }
+          ]
+        },
+        {
+          "name": "Layhill",
+          "color": "#df22b8",
+          "id": 1,
+          "locations": [
+            {
+              "address": "271 Schenck Court",
+              "id": 0,
+              "company": "COWTOWN"
+            },
+            {
+              "address": "721 Brevoort Place",
+              "id": 1,
+              "company": "DECRATEX"
+            },
+            {
+              "address": "830 Kathleen Court",
+              "id": 2,
+              "company": "KROG"
+            }
+          ]
+        },
+        {
+          "name": "Summerset",
+          "color": "#66d0a5",
+          "id": 2,
+          "locations": [
+            {
+              "address": "292 Montauk Avenue",
+              "id": 0,
+              "company": "VALREDA"
+            },
+            {
+              "address": "965 Beekman Place",
+              "id": 1,
+              "company": "ASSISTIX"
+            },
+            {
+              "address": "727 Monroe Street",
+              "id": 2,
+              "company": "ACRODANCE"
+            },
+            {
+              "address": "788 Jamison Lane",
+              "id": 3,
+              "company": "TROLLERY"
+            },
+            {
+              "address": "653 McDonald Avenue",
+              "id": 4,
+              "company": "QUOTEZART"
+            },
+            {
+              "address": "567 Oceanic Avenue",
+              "id": 5,
+              "company": "SUREMAX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "color": "#5e1282",
+      "id": 5,
+      "cities": [
+        {
+          "name": "Nord",
+          "color": "#414dda",
+          "id": 0,
+          "locations": [
+            {
+              "address": "284 Livingston Street",
+              "id": 0,
+              "company": "JUMPSTACK"
+            },
+            {
+              "address": "128 Broome Street",
+              "id": 1,
+              "company": "AUSTEX"
+            },
+            {
+              "address": "794 Marconi Place",
+              "id": 2,
+              "company": "ZILLIDIUM"
+            },
+            {
+              "address": "550 Rochester Avenue",
+              "id": 3,
+              "company": "BICOL"
+            }
+          ]
+        },
+        {
+          "name": "Hillsboro",
+          "color": "#1c1855",
+          "id": 1,
+          "locations": [
+            {
+              "address": "321 Clermont Avenue",
+              "id": 0,
+              "company": "BIOTICA"
+            },
+            {
+              "address": "496 Lester Court",
+              "id": 1,
+              "company": "QUINEX"
+            },
+            {
+              "address": "342 President Street",
+              "id": 2,
+              "company": "GINKOGENE"
+            },
+            {
+              "address": "421 Seigel Court",
+              "id": 3,
+              "company": "NAMEGEN"
+            },
+            {
+              "address": "877 Clifford Place",
+              "id": 4,
+              "company": "EXTRAGEN"
+            },
+            {
+              "address": "817 Bridgewater Street",
+              "id": 5,
+              "company": "OZEAN"
+            },
+            {
+              "address": "906 Kosciusko Street",
+              "id": 6,
+              "company": "HANDSHAKE"
+            },
+            {
+              "address": "967 Sutter Avenue",
+              "id": 7,
+              "company": "DREAMIA"
+            }
+          ]
+        },
+        {
+          "name": "Weogufka",
+          "color": "#87ba78",
+          "id": 2,
+          "locations": [
+            {
+              "address": "520 Dewitt Avenue",
+              "id": 0,
+              "company": "ISOTERNIA"
+            },
+            {
+              "address": "278 Melba Court",
+              "id": 1,
+              "company": "DANCERITY"
+            }
+          ]
+        },
+        {
+          "name": "Roberts",
+          "color": "#c79f08",
+          "id": 3,
+          "locations": [
+            {
+              "address": "786 Bogart Street",
+              "id": 0,
+              "company": "GYNKO"
+            },
+            {
+              "address": "740 Allen Avenue",
+              "id": 1,
+              "company": "CINASTER"
+            },
+            {
+              "address": "439 Dorset Street",
+              "id": 2,
+              "company": "UNISURE"
+            },
+            {
+              "address": "406 Vanderveer Place",
+              "id": 3,
+              "company": "POOCHIES"
+            },
+            {
+              "address": "581 Montgomery Place",
+              "id": 4,
+              "company": "CEMENTION"
+            },
+            {
+              "address": "186 Winthrop Street",
+              "id": 5,
+              "company": "DAISU"
+            },
+            {
+              "address": "713 Bayview Place",
+              "id": 6,
+              "company": "TSUNAMIA"
+            }
+          ]
+        },
+        {
+          "name": "Waikele",
+          "color": "#162504",
+          "id": 4,
+          "locations": [
+            {
+              "address": "663 Fuller Place",
+              "id": 0,
+              "company": "CENTREXIN"
+            },
+            {
+              "address": "127 Bushwick Court",
+              "id": 1,
+              "company": "NEPTIDE"
+            },
+            {
+              "address": "316 Varick Avenue",
+              "id": 2,
+              "company": "ISONUS"
+            },
+            {
+              "address": "879 Lawrence Avenue",
+              "id": 3,
+              "company": "ZIALACTIC"
+            },
+            {
+              "address": "849 Wyckoff Avenue",
+              "id": 4,
+              "company": "PROGENEX"
+            },
+            {
+              "address": "980 Lexington Avenue",
+              "id": 5,
+              "company": "TELEQUIET"
+            }
+          ]
+        },
+        {
+          "name": "Lindisfarne",
+          "color": "#11fd7a",
+          "id": 5,
+          "locations": [
+            {
+              "address": "453 Lawrence Street",
+              "id": 0,
+              "company": "MYOPIUM"
+            },
+            {
+              "address": "221 Aster Court",
+              "id": 1,
+              "company": "COMTOUR"
+            },
+            {
+              "address": "896 Crystal Street",
+              "id": 2,
+              "company": "EZENT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "color": "#9c1ef7",
+      "id": 6,
+      "cities": [
+        {
+          "name": "Thatcher",
+          "color": "#5a4701",
+          "id": 0,
+          "locations": [
+            {
+              "address": "216 Midwood Street",
+              "id": 0,
+              "company": "MAKINGWAY"
+            },
+            {
+              "address": "162 Lawton Street",
+              "id": 1,
+              "company": "ECLIPSENT"
+            },
+            {
+              "address": "104 Sunnyside Court",
+              "id": 2,
+              "company": "SONGLINES"
+            },
+            {
+              "address": "789 Oxford Street",
+              "id": 3,
+              "company": "QUAREX"
+            }
+          ]
+        },
+        {
+          "name": "Rushford",
+          "color": "#f884bb",
+          "id": 1,
+          "locations": [
+            {
+              "address": "915 Knapp Street",
+              "id": 0,
+              "company": "ELEMANTRA"
+            },
+            {
+              "address": "457 Remsen Avenue",
+              "id": 1,
+              "company": "EARTHPURE"
+            }
+          ]
+        },
+        {
+          "name": "Weedville",
+          "color": "#264293",
+          "id": 2,
+          "locations": [
+            {
+              "address": "146 Highland Boulevard",
+              "id": 0,
+              "company": "ZAJ"
+            },
+            {
+              "address": "396 Garland Court",
+              "id": 1,
+              "company": "MARQET"
+            },
+            {
+              "address": "309 Banker Street",
+              "id": 2,
+              "company": "GONKLE"
+            },
+            {
+              "address": "732 Highland Place",
+              "id": 3,
+              "company": "YURTURE"
+            },
+            {
+              "address": "698 Sunnyside Avenue",
+              "id": 4,
+              "company": "BULLJUICE"
+            }
+          ]
+        },
+        {
+          "name": "Freelandville",
+          "color": "#302436",
+          "id": 3,
+          "locations": [
+            {
+              "address": "397 Coventry Road",
+              "id": 0,
+              "company": "CALCU"
+            },
+            {
+              "address": "679 Brightwater Court",
+              "id": 1,
+              "company": "SUPPORTAL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "color": "#18e9d5",
+      "id": 7,
+      "cities": [
+        {
+          "name": "Freetown",
+          "color": "#100526",
+          "id": 0,
+          "locations": [
+            {
+              "address": "435 Hinsdale Street",
+              "id": 0,
+              "company": "ENTOGROK"
+            },
+            {
+              "address": "475 Huntington Street",
+              "id": 1,
+              "company": "GAPTEC"
+            }
+          ]
+        },
+        {
+          "name": "Strong",
+          "color": "#c191d4",
+          "id": 1,
+          "locations": [
+            {
+              "address": "494 Chapel Street",
+              "id": 0,
+              "company": "BOINK"
+            },
+            {
+              "address": "279 Crown Street",
+              "id": 1,
+              "company": "ARCHITAX"
+            },
+            {
+              "address": "449 Landis Court",
+              "id": 2,
+              "company": "BRISTO"
+            },
+            {
+              "address": "531 Bryant Street",
+              "id": 3,
+              "company": "ZANITY"
+            }
+          ]
+        },
+        {
+          "name": "Nadine",
+          "color": "#6e0a31",
+          "id": 2,
+          "locations": [
+            {
+              "address": "571 College Place",
+              "id": 0,
+              "company": "ZOSIS"
+            },
+            {
+              "address": "519 Harden Street",
+              "id": 1,
+              "company": "IZZBY"
+            },
+            {
+              "address": "175 Grafton Street",
+              "id": 2,
+              "company": "BOILCAT"
+            },
+            {
+              "address": "607 Gold Street",
+              "id": 3,
+              "company": "KOOGLE"
+            },
+            {
+              "address": "819 Stockton Street",
+              "id": 4,
+              "company": "PIVITOL"
+            },
+            {
+              "address": "757 Dekalb Avenue",
+              "id": 5,
+              "company": "GUSHKOOL"
+            },
+            {
+              "address": "323 Court Street",
+              "id": 6,
+              "company": "CAPSCREEN"
+            },
+            {
+              "address": "218 Jackson Street",
+              "id": 7,
+              "company": "RECRITUBE"
+            }
+          ]
+        },
+        {
+          "name": "Hobucken",
+          "color": "#1a7896",
+          "id": 3,
+          "locations": [
+            {
+              "address": "896 Manhattan Court",
+              "id": 0,
+              "company": "PERMADYNE"
+            },
+            {
+              "address": "651 Beverly Road",
+              "id": 1,
+              "company": "BIOLIVE"
+            },
+            {
+              "address": "729 Harway Avenue",
+              "id": 2,
+              "company": "GENEKOM"
+            },
+            {
+              "address": "908 Douglass Street",
+              "id": 3,
+              "company": "ELPRO"
+            },
+            {
+              "address": "139 Canal Avenue",
+              "id": 4,
+              "company": "BOLAX"
+            },
+            {
+              "address": "817 Sumner Place",
+              "id": 5,
+              "company": "GENMOM"
+            },
+            {
+              "address": "955 Willoughby Avenue",
+              "id": 6,
+              "company": "COMTRACT"
+            },
+            {
+              "address": "138 Pierrepont Place",
+              "id": 7,
+              "company": "STREZZO"
+            }
+          ]
+        },
+        {
+          "name": "Darbydale",
+          "color": "#f977be",
+          "id": 4,
+          "locations": [
+            {
+              "address": "883 Bradford Street",
+              "id": 0,
+              "company": "QUADEEBO"
+            },
+            {
+              "address": "264 Ridgewood Avenue",
+              "id": 1,
+              "company": "DYNO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "color": "#62001d",
+      "id": 8,
+      "cities": [
+        {
+          "name": "Wattsville",
+          "color": "#acf6ea",
+          "id": 0,
+          "locations": [
+            {
+              "address": "457 Degraw Street",
+              "id": 0,
+              "company": "TECHMANIA"
+            },
+            {
+              "address": "452 Conover Street",
+              "id": 1,
+              "company": "EXODOC"
+            },
+            {
+              "address": "465 Ross Street",
+              "id": 2,
+              "company": "ACIUM"
+            },
+            {
+              "address": "210 Belmont Avenue",
+              "id": 3,
+              "company": "ZANYMAX"
+            }
+          ]
+        },
+        {
+          "name": "Wedgewood",
+          "color": "#d63d11",
+          "id": 1,
+          "locations": [
+            {
+              "address": "502 Overbaugh Place",
+              "id": 0,
+              "company": "GRONK"
+            },
+            {
+              "address": "568 Olive Street",
+              "id": 1,
+              "company": "SNOWPOKE"
+            },
+            {
+              "address": "322 Amity Street",
+              "id": 2,
+              "company": "GOLISTIC"
+            },
+            {
+              "address": "977 Kingsway Place",
+              "id": 3,
+              "company": "FURNAFIX"
+            },
+            {
+              "address": "261 Clymer Street",
+              "id": 4,
+              "company": "KATAKANA"
+            }
+          ]
+        },
+        {
+          "name": "Noxen",
+          "color": "#927eae",
+          "id": 2,
+          "locations": [
+            {
+              "address": "848 Ford Street",
+              "id": 0,
+              "company": "COLLAIRE"
+            },
+            {
+              "address": "775 Harman Street",
+              "id": 1,
+              "company": "EXTRO"
+            }
+          ]
+        },
+        {
+          "name": "Elwood",
+          "color": "#94770d",
+          "id": 3,
+          "locations": [
+            {
+              "address": "302 Cypress Court",
+              "id": 0,
+              "company": "BEDDER"
+            },
+            {
+              "address": "328 Cyrus Avenue",
+              "id": 1,
+              "company": "TRASOLA"
+            },
+            {
+              "address": "308 Canarsie Road",
+              "id": 2,
+              "company": "HARMONEY"
+            },
+            {
+              "address": "492 Kimball Street",
+              "id": 3,
+              "company": "GYNK"
+            },
+            {
+              "address": "317 John Street",
+              "id": 4,
+              "company": "PROWASTE"
+            },
+            {
+              "address": "293 Emmons Avenue",
+              "id": 5,
+              "company": "BUZZMAKER"
+            },
+            {
+              "address": "952 Catherine Street",
+              "id": 6,
+              "company": "ULTRIMAX"
+            },
+            {
+              "address": "902 Richardson Street",
+              "id": 7,
+              "company": "GEEKMOSIS"
+            }
+          ]
+        },
+        {
+          "name": "Brambleton",
+          "color": "#433342",
+          "id": 4,
+          "locations": [
+            {
+              "address": "419 Kane Place",
+              "id": 0,
+              "company": "SQUISH"
+            },
+            {
+              "address": "984 Farragut Road",
+              "id": 1,
+              "company": "PERKLE"
+            }
+          ]
+        },
+        {
+          "name": "Bancroft",
+          "color": "#7a5e9",
+          "id": 5,
+          "locations": [
+            {
+              "address": "109 Surf Avenue",
+              "id": 0,
+              "company": "ZAPHIRE"
+            },
+            {
+              "address": "528 Minna Street",
+              "id": 1,
+              "company": "ZILLAR"
+            },
+            {
+              "address": "208 Clifton Place",
+              "id": 2,
+              "company": "XUMONK"
+            },
+            {
+              "address": "683 Schroeders Avenue",
+              "id": 3,
+              "company": "OVATION"
+            },
+            {
+              "address": "423 McClancy Place",
+              "id": 4,
+              "company": "CORPORANA"
+            },
+            {
+              "address": "892 Clarendon Road",
+              "id": 5,
+              "company": "MOTOVATE"
+            }
+          ]
+        },
+        {
+          "name": "Finderne",
+          "color": "#1b0faa",
+          "id": 6,
+          "locations": [
+            {
+              "address": "825 Strong Place",
+              "id": 0,
+              "company": "FROLIX"
+            },
+            {
+              "address": "607 Bulwer Place",
+              "id": 1,
+              "company": "AQUACINE"
+            },
+            {
+              "address": "334 National Drive",
+              "id": 2,
+              "company": "XANIDE"
+            },
+            {
+              "address": "170 Will Place",
+              "id": 3,
+              "company": "ZYTRAX"
+            },
+            {
+              "address": "325 Anthony Street",
+              "id": 4,
+              "company": "TOURMANIA"
+            },
+            {
+              "address": "104 Polar Street",
+              "id": 5,
+              "company": "ZILIDIUM"
+            },
+            {
+              "address": "859 Oriental Boulevard",
+              "id": 6,
+              "company": "CINESANCT"
+            },
+            {
+              "address": "261 Alice Court",
+              "id": 7,
+              "company": "FANFARE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "color": "#24cf4",
+      "id": 9,
+      "cities": [
+        {
+          "name": "Wheaton",
+          "color": "#4082c8",
+          "id": 0,
+          "locations": [
+            {
+              "address": "826 Thames Street",
+              "id": 0,
+              "company": "BOSTONIC"
+            },
+            {
+              "address": "524 Heyward Street",
+              "id": 1,
+              "company": "KIDGREASE"
+            },
+            {
+              "address": "361 Etna Street",
+              "id": 2,
+              "company": "GEEKETRON"
+            },
+            {
+              "address": "922 Johnson Avenue",
+              "id": 3,
+              "company": "QUALITEX"
+            }
+          ]
+        },
+        {
+          "name": "Temperanceville",
+          "color": "#38a95d",
+          "id": 1,
+          "locations": [
+            {
+              "address": "259 Lois Avenue",
+              "id": 0,
+              "company": "BITENDREX"
+            },
+            {
+              "address": "114 Jodie Court",
+              "id": 1,
+              "company": "SUNCLIPSE"
+            },
+            {
+              "address": "498 Glendale Court",
+              "id": 2,
+              "company": "GEEKOSIS"
+            },
+            {
+              "address": "676 Durland Place",
+              "id": 3,
+              "company": "TALKOLA"
+            },
+            {
+              "address": "246 India Street",
+              "id": 4,
+              "company": "KNOWLYSIS"
+            },
+            {
+              "address": "375 Ovington Court",
+              "id": 5,
+              "company": "MIRACLIS"
+            },
+            {
+              "address": "626 Howard Avenue",
+              "id": 6,
+              "company": "PANZENT"
+            }
+          ]
+        },
+        {
+          "name": "Vale",
+          "color": "#70559e",
+          "id": 2,
+          "locations": [
+            {
+              "address": "912 Trucklemans Lane",
+              "id": 0,
+              "company": "GRUPOLI"
+            },
+            {
+              "address": "779 Morgan Avenue",
+              "id": 1,
+              "company": "DATAGEN"
+            },
+            {
+              "address": "754 Tennis Court",
+              "id": 2,
+              "company": "ORGANICA"
+            },
+            {
+              "address": "472 Garden Street",
+              "id": 3,
+              "company": "AFFLUEX"
+            },
+            {
+              "address": "211 Cozine Avenue",
+              "id": 4,
+              "company": "MIRACULA"
+            },
+            {
+              "address": "705 Norman Avenue",
+              "id": 5,
+              "company": "MENBRAIN"
+            }
+          ]
+        },
+        {
+          "name": "Springhill",
+          "color": "#becb60",
+          "id": 3,
+          "locations": [
+            {
+              "address": "428 Bay Avenue",
+              "id": 0,
+              "company": "STRALUM"
+            },
+            {
+              "address": "140 Lynch Street",
+              "id": 1,
+              "company": "ASSISTIA"
+            },
+            {
+              "address": "744 Hausman Street",
+              "id": 2,
+              "company": "KAGE"
+            },
+            {
+              "address": "769 Rockaway Parkway",
+              "id": 3,
+              "company": "MAZUDA"
+            }
+          ]
+        },
+        {
+          "name": "Blandburg",
+          "color": "#56397b",
+          "id": 4,
+          "locations": [
+            {
+              "address": "265 Johnson Street",
+              "id": 0,
+              "company": "ORBIFLEX"
+            },
+            {
+              "address": "826 Village Road",
+              "id": 1,
+              "company": "NIXELT"
+            },
+            {
+              "address": "582 McKinley Avenue",
+              "id": 2,
+              "company": "GLEAMINK"
+            },
+            {
+              "address": "906 Foster Avenue",
+              "id": 3,
+              "company": "KOG"
+            },
+            {
+              "address": "598 Woodpoint Road",
+              "id": 4,
+              "company": "JIMBIES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "color": "#9c1cf7",
+      "id": 10,
+      "cities": [
+        {
+          "name": "Hessville",
+          "color": "#6f792e",
+          "id": 0,
+          "locations": [
+            {
+              "address": "454 Classon Avenue",
+              "id": 0,
+              "company": "MARVANE"
+            },
+            {
+              "address": "525 Montieth Street",
+              "id": 1,
+              "company": "MAINELAND"
+            }
+          ]
+        },
+        {
+          "name": "Clayville",
+          "color": "#1b9121",
+          "id": 1,
+          "locations": [
+            {
+              "address": "667 Clark Street",
+              "id": 0,
+              "company": "VICON"
+            },
+            {
+              "address": "461 Truxton Street",
+              "id": 1,
+              "company": "ROOFORIA"
+            },
+            {
+              "address": "588 Lott Avenue",
+              "id": 2,
+              "company": "PETICULAR"
+            },
+            {
+              "address": "773 Varet Street",
+              "id": 3,
+              "company": "ENDIPINE"
+            },
+            {
+              "address": "373 Dumont Avenue",
+              "id": 4,
+              "company": "OLYMPIX"
+            },
+            {
+              "address": "427 Wyona Street",
+              "id": 5,
+              "company": "ZILODYNE"
+            },
+            {
+              "address": "901 Bushwick Avenue",
+              "id": 6,
+              "company": "UPDAT"
+            }
+          ]
+        },
+        {
+          "name": "Lacomb",
+          "color": "#86b77d",
+          "id": 2,
+          "locations": [
+            {
+              "address": "218 Green Street",
+              "id": 0,
+              "company": "ILLUMITY"
+            },
+            {
+              "address": "687 Ralph Avenue",
+              "id": 1,
+              "company": "EXOSPEED"
+            },
+            {
+              "address": "492 Bancroft Place",
+              "id": 2,
+              "company": "FUTURIS"
+            },
+            {
+              "address": "336 Wakeman Place",
+              "id": 3,
+              "company": "UNCORP"
+            },
+            {
+              "address": "421 Ashland Place",
+              "id": 4,
+              "company": "ISOTRONIC"
+            }
+          ]
+        },
+        {
+          "name": "Brule",
+          "color": "#950ca2",
+          "id": 3,
+          "locations": [
+            {
+              "address": "295 Evans Street",
+              "id": 0,
+              "company": "BIZMATIC"
+            },
+            {
+              "address": "971 Wogan Terrace",
+              "id": 1,
+              "company": "TERAPRENE"
+            },
+            {
+              "address": "687 Tompkins Avenue",
+              "id": 2,
+              "company": "ETERNIS"
+            },
+            {
+              "address": "749 Cobek Court",
+              "id": 3,
+              "company": "ZAGGLES"
+            },
+            {
+              "address": "884 Navy Walk",
+              "id": 4,
+              "company": "LUDAK"
+            },
+            {
+              "address": "801 Newton Street",
+              "id": 5,
+              "company": "GROK"
+            },
+            {
+              "address": "839 Columbus Place",
+              "id": 6,
+              "company": "AMRIL"
+            }
+          ]
+        },
+        {
+          "name": "Advance",
+          "color": "#5090e4",
+          "id": 4,
+          "locations": [
+            {
+              "address": "839 Keen Court",
+              "id": 0,
+              "company": "QUANTALIA"
+            },
+            {
+              "address": "575 Nautilus Avenue",
+              "id": 1,
+              "company": "ZYTRAC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marshall Islands",
+      "color": "#86d975",
+      "id": 11,
+      "cities": [
+        {
+          "name": "Silkworth",
+          "color": "#2454af",
+          "id": 0,
+          "locations": [
+            {
+              "address": "855 Duryea Court",
+              "id": 0,
+              "company": "PYRAMI"
+            },
+            {
+              "address": "519 Bragg Street",
+              "id": 1,
+              "company": "BALUBA"
+            },
+            {
+              "address": "402 Montrose Avenue",
+              "id": 2,
+              "company": "BUZZNESS"
+            },
+            {
+              "address": "306 Dupont Street",
+              "id": 3,
+              "company": "COMCUR"
+            },
+            {
+              "address": "109 Montgomery Street",
+              "id": 4,
+              "company": "TERRAGEN"
+            },
+            {
+              "address": "382 Hooper Street",
+              "id": 5,
+              "company": "ZAGGLE"
+            }
+          ]
+        },
+        {
+          "name": "Edgar",
+          "color": "#e8770",
+          "id": 1,
+          "locations": [
+            {
+              "address": "515 Tilden Avenue",
+              "id": 0,
+              "company": "PLUTORQUE"
+            },
+            {
+              "address": "244 Seagate Terrace",
+              "id": 1,
+              "company": "TECHADE"
+            },
+            {
+              "address": "633 Forrest Street",
+              "id": 2,
+              "company": "GEOSTELE"
+            },
+            {
+              "address": "946 Kermit Place",
+              "id": 3,
+              "company": "LIMAGE"
+            },
+            {
+              "address": "527 Commerce Street",
+              "id": 4,
+              "company": "TALKALOT"
+            },
+            {
+              "address": "911 Brooklyn Avenue",
+              "id": 5,
+              "company": "VALPREAL"
+            }
+          ]
+        },
+        {
+          "name": "Elfrida",
+          "color": "#a2e256",
+          "id": 2,
+          "locations": [
+            {
+              "address": "259 Calyer Street",
+              "id": 0,
+              "company": "VIDTO"
+            },
+            {
+              "address": "381 Coyle Street",
+              "id": 1,
+              "company": "HYPLEX"
+            },
+            {
+              "address": "380 Schenck Place",
+              "id": 2,
+              "company": "EVENTIX"
+            },
+            {
+              "address": "255 Turnbull Avenue",
+              "id": 3,
+              "company": "DIGIGEN"
+            },
+            {
+              "address": "240 Boynton Place",
+              "id": 4,
+              "company": "EWAVES"
+            },
+            {
+              "address": "675 Tillary Street",
+              "id": 5,
+              "company": "RUGSTARS"
+            },
+            {
+              "address": "486 Irvington Place",
+              "id": 6,
+              "company": "ICOLOGY"
+            },
+            {
+              "address": "658 Hastings Street",
+              "id": 7,
+              "company": "ZENTIX"
+            }
+          ]
+        },
+        {
+          "name": "Clarktown",
+          "color": "#daa3ce",
+          "id": 3,
+          "locations": [
+            {
+              "address": "550 Henderson Walk",
+              "id": 0,
+              "company": "APEXIA"
+            },
+            {
+              "address": "150 Goodwin Place",
+              "id": 1,
+              "company": "EXOSPACE"
+            },
+            {
+              "address": "491 Eastern Parkway",
+              "id": 2,
+              "company": "ZILENCIO"
+            },
+            {
+              "address": "176 Powell Street",
+              "id": 3,
+              "company": "SYNKGEN"
+            },
+            {
+              "address": "449 Poplar Avenue",
+              "id": 4,
+              "company": "SHOPABOUT"
+            },
+            {
+              "address": "361 Holmes Lane",
+              "id": 5,
+              "company": "ECRATIC"
+            },
+            {
+              "address": "924 Meeker Avenue",
+              "id": 6,
+              "company": "REVERSUS"
+            },
+            {
+              "address": "810 Hubbard Place",
+              "id": 7,
+              "company": "OLUCORE"
+            }
+          ]
+        },
+        {
+          "name": "Cliff",
+          "color": "#96a15a",
+          "id": 4,
+          "locations": [
+            {
+              "address": "228 Townsend Street",
+              "id": 0,
+              "company": "FUTURIZE"
+            },
+            {
+              "address": "235 Stone Avenue",
+              "id": 1,
+              "company": "ORBOID"
+            },
+            {
+              "address": "389 Borinquen Pl",
+              "id": 2,
+              "company": "SLUMBERIA"
+            },
+            {
+              "address": "221 Throop Avenue",
+              "id": 3,
+              "company": "PORTALIS"
+            }
+          ]
+        },
+        {
+          "name": "Bedias",
+          "color": "#17e7",
+          "id": 5,
+          "locations": [
+            {
+              "address": "533 Cox Place",
+              "id": 0,
+              "company": "CAXT"
+            },
+            {
+              "address": "567 Adams Street",
+              "id": 1,
+              "company": "CYCLONICA"
+            },
+            {
+              "address": "806 Alabama Avenue",
+              "id": 2,
+              "company": "PHARMACON"
+            },
+            {
+              "address": "171 High Street",
+              "id": 3,
+              "company": "ACCIDENCY"
+            },
+            {
+              "address": "721 Pioneer Street",
+              "id": 4,
+              "company": "GEOFORMA"
+            },
+            {
+              "address": "490 Amersfort Place",
+              "id": 5,
+              "company": "SULTRAX"
+            },
+            {
+              "address": "806 Carlton Avenue",
+              "id": 6,
+              "company": "LIMOZEN"
+            },
+            {
+              "address": "750 Macdougal Street",
+              "id": 7,
+              "company": "COMVEYOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "color": "#1c34d1",
+      "id": 12,
+      "cities": [
+        {
+          "name": "Villarreal",
+          "color": "#e505e1",
+          "id": 0,
+          "locations": [
+            {
+              "address": "138 Lake Avenue",
+              "id": 0,
+              "company": "INEAR"
+            },
+            {
+              "address": "894 Lafayette Walk",
+              "id": 1,
+              "company": "KOFFEE"
+            },
+            {
+              "address": "536 Duffield Street",
+              "id": 2,
+              "company": "DIGIQUE"
+            },
+            {
+              "address": "296 Thomas Street",
+              "id": 3,
+              "company": "TROPOLI"
+            },
+            {
+              "address": "443 Decatur Street",
+              "id": 4,
+              "company": "RETROTEX"
+            },
+            {
+              "address": "777 Gallatin Place",
+              "id": 5,
+              "company": "VERTON"
+            }
+          ]
+        },
+        {
+          "name": "Healy",
+          "color": "#fd295",
+          "id": 1,
+          "locations": [
+            {
+              "address": "884 Cleveland Street",
+              "id": 0,
+              "company": "BLURRYBUS"
+            },
+            {
+              "address": "753 Sapphire Street",
+              "id": 1,
+              "company": "CANDECOR"
+            },
+            {
+              "address": "241 Campus Place",
+              "id": 2,
+              "company": "BIOHAB"
+            },
+            {
+              "address": "872 Sullivan Place",
+              "id": 3,
+              "company": "VIASIA"
+            },
+            {
+              "address": "242 Canton Court",
+              "id": 4,
+              "company": "GEOLOGIX"
+            },
+            {
+              "address": "781 Havens Place",
+              "id": 5,
+              "company": "RAMEON"
+            },
+            {
+              "address": "425 Lacon Court",
+              "id": 6,
+              "company": "EURON"
+            },
+            {
+              "address": "811 Jefferson Street",
+              "id": 7,
+              "company": "ASIMILINE"
+            }
+          ]
+        },
+        {
+          "name": "Mulino",
+          "color": "#5d1113",
+          "id": 2,
+          "locations": [
+            {
+              "address": "618 Commercial Street",
+              "id": 0,
+              "company": "VOLAX"
+            },
+            {
+              "address": "213 Locust Street",
+              "id": 1,
+              "company": "OVIUM"
+            },
+            {
+              "address": "386 Hicks Street",
+              "id": 2,
+              "company": "ZEAM"
+            },
+            {
+              "address": "859 Guider Avenue",
+              "id": 3,
+              "company": "XYMONK"
+            },
+            {
+              "address": "924 Stockholm Street",
+              "id": 4,
+              "company": "ZYTREK"
+            },
+            {
+              "address": "249 Cooke Court",
+              "id": 5,
+              "company": "BOVIS"
+            }
+          ]
+        },
+        {
+          "name": "Orviston",
+          "color": "#f55bf6",
+          "id": 3,
+          "locations": [
+            {
+              "address": "581 Vanderbilt Street",
+              "id": 0,
+              "company": "POWERNET"
+            },
+            {
+              "address": "312 Waldorf Court",
+              "id": 1,
+              "company": "SOLGAN"
+            },
+            {
+              "address": "432 Kossuth Place",
+              "id": 2,
+              "company": "NEWCUBE"
+            },
+            {
+              "address": "120 Beard Street",
+              "id": 3,
+              "company": "EVIDENDS"
+            }
+          ]
+        },
+        {
+          "name": "Edmund",
+          "color": "#ce7bf4",
+          "id": 4,
+          "locations": [
+            {
+              "address": "828 Willow Place",
+              "id": 0,
+              "company": "PLASTO"
+            },
+            {
+              "address": "843 Myrtle Avenue",
+              "id": 1,
+              "company": "VIXO"
+            },
+            {
+              "address": "178 Hancock Street",
+              "id": 2,
+              "company": "CODACT"
+            },
+            {
+              "address": "793 Sackman Street",
+              "id": 3,
+              "company": "ZOINAGE"
+            },
+            {
+              "address": "588 Hendrix Street",
+              "id": 4,
+              "company": "ZEPITOPE"
+            },
+            {
+              "address": "322 Losee Terrace",
+              "id": 5,
+              "company": "NUTRALAB"
+            },
+            {
+              "address": "573 Conway Street",
+              "id": 6,
+              "company": "AMTAP"
+            }
+          ]
+        },
+        {
+          "name": "Beyerville",
+          "color": "#8064d0",
+          "id": 5,
+          "locations": [
+            {
+              "address": "651 Fay Court",
+              "id": 0,
+              "company": "RECOGNIA"
+            },
+            {
+              "address": "464 Dover Street",
+              "id": 1,
+              "company": "INVENTURE"
+            },
+            {
+              "address": "595 Autumn Avenue",
+              "id": 2,
+              "company": "LETPRO"
+            },
+            {
+              "address": "369 Ludlam Place",
+              "id": 3,
+              "company": "INSURESYS"
+            },
+            {
+              "address": "147 Freeman Street",
+              "id": 4,
+              "company": "EARGO"
+            },
+            {
+              "address": "979 Meserole Street",
+              "id": 5,
+              "company": "QUILK"
+            },
+            {
+              "address": "319 Baughman Place",
+              "id": 6,
+              "company": "VANTAGE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "American Samoa",
+      "color": "#91f215",
+      "id": 13,
+      "cities": [
+        {
+          "name": "Ventress",
+          "color": "#4e24f9",
+          "id": 0,
+          "locations": [
+            {
+              "address": "774 Hemlock Street",
+              "id": 0,
+              "company": "VIAGRAND"
+            },
+            {
+              "address": "629 Himrod Street",
+              "id": 1,
+              "company": "COLAIRE"
+            },
+            {
+              "address": "873 Newkirk Avenue",
+              "id": 2,
+              "company": "HONOTRON"
+            }
+          ]
+        },
+        {
+          "name": "Norfolk",
+          "color": "#af1a49",
+          "id": 1,
+          "locations": [
+            {
+              "address": "452 Erasmus Street",
+              "id": 0,
+              "company": "ENAUT"
+            },
+            {
+              "address": "959 Karweg Place",
+              "id": 1,
+              "company": "INQUALA"
+            },
+            {
+              "address": "545 Hendrickson Place",
+              "id": 2,
+              "company": "BUZZOPIA"
+            },
+            {
+              "address": "525 Oriental Court",
+              "id": 3,
+              "company": "MELBACOR"
+            },
+            {
+              "address": "447 Knight Court",
+              "id": 4,
+              "company": "SUREPLEX"
+            },
+            {
+              "address": "936 Gunnison Court",
+              "id": 5,
+              "company": "ROCKLOGIC"
+            },
+            {
+              "address": "452 Hinckley Place",
+              "id": 6,
+              "company": "STRALOY"
+            },
+            {
+              "address": "153 Ryerson Street",
+              "id": 7,
+              "company": "FURNITECH"
+            }
+          ]
+        },
+        {
+          "name": "Bagtown",
+          "color": "#65c19b",
+          "id": 2,
+          "locations": [
+            {
+              "address": "174 Boulevard Court",
+              "id": 0,
+              "company": "ZENSOR"
+            },
+            {
+              "address": "850 Maple Avenue",
+              "id": 1,
+              "company": "TROPOLIS"
+            },
+            {
+              "address": "432 Regent Place",
+              "id": 2,
+              "company": "ATOMICA"
+            },
+            {
+              "address": "697 Fulton Street",
+              "id": 3,
+              "company": "IMANT"
+            },
+            {
+              "address": "224 Gelston Avenue",
+              "id": 4,
+              "company": "ZIORE"
+            }
+          ]
+        },
+        {
+          "name": "Walker",
+          "color": "#b8aaef",
+          "id": 3,
+          "locations": [
+            {
+              "address": "502 Barbey Street",
+              "id": 0,
+              "company": "EMERGENT"
+            },
+            {
+              "address": "673 Boerum Place",
+              "id": 1,
+              "company": "ZENSURE"
+            },
+            {
+              "address": "265 Apollo Street",
+              "id": 2,
+              "company": "SUSTENZA"
+            },
+            {
+              "address": "417 Irwin Street",
+              "id": 3,
+              "company": "UNQ"
+            },
+            {
+              "address": "299 Seabring Street",
+              "id": 4,
+              "company": "QUORDATE"
+            },
+            {
+              "address": "128 Irving Place",
+              "id": 5,
+              "company": "COMVOY"
+            },
+            {
+              "address": "105 Eckford Street",
+              "id": 6,
+              "company": "KINETICA"
+            },
+            {
+              "address": "339 Stillwell Avenue",
+              "id": 7,
+              "company": "PHUEL"
+            }
+          ]
+        },
+        {
+          "name": "Rivers",
+          "color": "#3bfe13",
+          "id": 4,
+          "locations": [
+            {
+              "address": "404 Doughty Street",
+              "id": 0,
+              "company": "LYRIA"
+            },
+            {
+              "address": "653 Lefferts Avenue",
+              "id": 1,
+              "company": "BARKARAMA"
+            },
+            {
+              "address": "369 Middagh Street",
+              "id": 2,
+              "company": "COMTOURS"
+            },
+            {
+              "address": "652 Cooper Street",
+              "id": 3,
+              "company": "NETPLODE"
+            },
+            {
+              "address": "624 Lancaster Avenue",
+              "id": 4,
+              "company": "STUCCO"
+            }
+          ]
+        },
+        {
+          "name": "Loma",
+          "color": "#950ad4",
+          "id": 5,
+          "locations": [
+            {
+              "address": "935 Greene Avenue",
+              "id": 0,
+              "company": "FILODYNE"
+            },
+            {
+              "address": "918 Balfour Place",
+              "id": 1,
+              "company": "GEEKULAR"
+            },
+            {
+              "address": "218 Cass Place",
+              "id": 2,
+              "company": "CENTICE"
+            },
+            {
+              "address": "566 Belvidere Street",
+              "id": 3,
+              "company": "NITRACYR"
+            },
+            {
+              "address": "187 Seton Place",
+              "id": 4,
+              "company": "ARCTIQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "color": "#cb25a",
+      "id": 14,
+      "cities": [
+        {
+          "name": "Epworth",
+          "color": "#13bdb6",
+          "id": 0,
+          "locations": [
+            {
+              "address": "505 Fountain Avenue",
+              "id": 0,
+              "company": "MACRONAUT"
+            },
+            {
+              "address": "136 Garden Place",
+              "id": 1,
+              "company": "IMMUNICS"
+            },
+            {
+              "address": "411 Oliver Street",
+              "id": 2,
+              "company": "JOVIOLD"
+            },
+            {
+              "address": "559 Louis Place",
+              "id": 3,
+              "company": "APPLICA"
+            },
+            {
+              "address": "733 Nolans Lane",
+              "id": 4,
+              "company": "BLEENDOT"
+            },
+            {
+              "address": "455 Radde Place",
+              "id": 5,
+              "company": "ZAPPIX"
+            }
+          ]
+        },
+        {
+          "name": "Ripley",
+          "color": "#a7898f",
+          "id": 1,
+          "locations": [
+            {
+              "address": "316 Dunne Place",
+              "id": 0,
+              "company": "PLASMOS"
+            },
+            {
+              "address": "561 Norfolk Street",
+              "id": 1,
+              "company": "TINGLES"
+            },
+            {
+              "address": "997 Loring Avenue",
+              "id": 2,
+              "company": "SCHOOLIO"
+            },
+            {
+              "address": "419 Woodbine Street",
+              "id": 3,
+              "company": "WEBIOTIC"
+            }
+          ]
+        },
+        {
+          "name": "Crumpler",
+          "color": "#944fbb",
+          "id": 2,
+          "locations": [
+            {
+              "address": "178 Eldert Street",
+              "id": 0,
+              "company": "DADABASE"
+            },
+            {
+              "address": "886 Havemeyer Street",
+              "id": 1,
+              "company": "COMBOGEN"
+            },
+            {
+              "address": "564 Halleck Street",
+              "id": 2,
+              "company": "QUAILCOM"
+            }
+          ]
+        },
+        {
+          "name": "Oberlin",
+          "color": "#44837e",
+          "id": 3,
+          "locations": [
+            {
+              "address": "845 Ash Street",
+              "id": 0,
+              "company": "QUINTITY"
+            },
+            {
+              "address": "692 Keap Street",
+              "id": 1,
+              "company": "NORSUP"
+            },
+            {
+              "address": "781 Milford Street",
+              "id": 2,
+              "company": "QUARMONY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
