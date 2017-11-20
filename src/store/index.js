@@ -15,8 +15,8 @@ const store = new Vuex.Store({
   },
   mutations: {
     mutateStates: (state, states) => {
-      state.states = states;
-    }
+      state.states = states; //eslint-disable-line
+    },
   },
   strict: false,
 });

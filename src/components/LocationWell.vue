@@ -16,7 +16,7 @@ export default {
     address: String,
     company: String,
   },
-}
+};
 </script>
 
 <style>

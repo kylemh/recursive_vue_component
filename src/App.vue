@@ -7,8 +7,8 @@
     <br />
 
     <!--
-      Note that in paths you don't want to pass the top-level of your
-      nested data. Simply pass everything below it!
+      Note that in paths you don't want to pass the top-level
+      of your nested data. Simply pass everything below it!
      -->
     <recursive-nested-collapse
       v-for="state in states"
@@ -23,7 +23,7 @@
 
 <script>
 import { mapActions } from 'vuex';
-import RecursiveNestedCollapse from './components/RecursiveNestedCollapse'
+import RecursiveNestedCollapse from './components/RecursiveNestedCollapse';
 
 export default {
   name: 'app',
@@ -33,17 +33,17 @@ export default {
   computed: {
     states() {
       return this.$store.state.states;
-    }
+    },
   },
   components: {
-    RecursiveNestedCollapse
+    RecursiveNestedCollapse,
   },
   methods: {
     ...mapActions([
-      'fetchData'
+      'fetchData',
     ]),
   },
-}
+};
 </script>
 
 <style>

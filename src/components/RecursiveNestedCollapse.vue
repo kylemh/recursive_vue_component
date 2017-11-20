@@ -72,7 +72,7 @@ export default {
     borderRadius() {
       // If selecting a city, change the button radii
       return this.drawerIsSelected && !this.paths.includes('cities') ? '15px 15px 0 0' : '5px';
-    }
+    },
   },
   methods: {
     isNotLastPath() {
@@ -80,9 +80,9 @@ export default {
     },
     expandDropdown() {
       this.drawerIsSelected = !this.drawerIsSelected;
-    }
-  }
-}
+    },
+  },
+};
 </script>
 
 <style>
