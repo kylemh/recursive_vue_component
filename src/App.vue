@@ -7,7 +7,7 @@
     <br />
 
     <!--
-      Note that in paths you don't want to pass the top-level
+      NOTE: In `paths` you don't want to pass the top level
       of your nested data. Simply pass everything below it!
      -->
     <recursive-nested-collapse
@@ -39,9 +39,7 @@ export default {
     RecursiveNestedCollapse,
   },
   methods: {
-    ...mapActions([
-      'fetchData',
-    ]),
+    ...mapActions(['fetchData']),
   },
 };
 </script>
